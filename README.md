@@ -20,6 +20,3 @@ Ensure all files and instructions are comprehensively documented in your GitHub 
 
 Project Members
 Mahalel Peter & Harshh Patel
-
-
-
